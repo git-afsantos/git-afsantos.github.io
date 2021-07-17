@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "André Santos' personal website"
+title: "André Santos - Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
