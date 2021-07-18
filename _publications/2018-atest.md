@@ -16,5 +16,3 @@ Property-based Testing is fitting in this context, since it is based on the spec
 In this paper, we present a first approach towards automatic generation of test scripts for property-based testing of various configurations of a ROS system.
 
 [Download paper here](http://git-afsantos.github.io/files/2018-atest.pdf)
-
-Recommended citation: A. Santos, A. Cunha, N. Macedo. (2018). &quot;Property-based Testing for the Robot Operating System.&quot; <i>A-TEST@ESEC/SIGSOFT FSE 2018</i>. 56-62.

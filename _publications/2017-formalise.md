@@ -18,5 +18,3 @@ It takes low-level parameters into account, such as queue sizes and timeouts, an
 The robot Kobuki is used as a complex case study, over which properties are automatically verified using the UPPAAL model checker, enabling the identification of problematic parameter combinations.
 
 [Download paper here](http://git-afsantos.github.io/files/2017-formalise.pdf)
-
-Recommended citation: R. Halder, J. Proença, N. Macedo, A. Santos. (2017). &quot;Formal Verification of ROS-Based Robotic Applications Using Timed-Automata.&quot; <i>FormaliSE@ICSE 2017</i>. 44-50.
