@@ -1,6 +1,6 @@
 ---
 title: "Pokémon Crystal: Indigo Power Tournament"
-excerpt: "ROM Hack of Pokémon Crystal (WIP)<br/><img src='/images/pkmn-indigo.png'>"
+excerpt: "ROM Hack of Pokémon Crystal (WIP)<br/><img src='/images/pkmn-indigo.png' style='max-width:640px;width:100%'>"
 collection: portfolio
 ---
 
