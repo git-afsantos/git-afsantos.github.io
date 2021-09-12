@@ -27,6 +27,10 @@ Work experience
   * Duties included: Verification of safety properties of software developed with the Robot Operating System (ROS)
   * Supervisor: Professor Alcino Cunha
   * Co-supervisor: Professor Nuno Macedo
+
+* Apr. 2021 - Present: **Senior Researcher**
+  * [VORTEX CoLab](https://www.vortex-colab.com/what-we-do/)
+  * Duties included: Developing automated analysis tools for robotics software
   
 Skills
 ======
